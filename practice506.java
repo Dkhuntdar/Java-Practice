@@ -2,9 +2,10 @@ import java.util.Scanner;
 
 public class practice506{
     public static void main(String main){
-        String name;
-        String reverse="";
-        Scanner sc=new Scanner(System.in);
+       int a;
+       int b;
+       int c;
+       Scanner sc=new Scanner(System.in);
         System.out.println(" Entr a string value = ");
         name =sc.next();
         sc.close();
