@@ -1,0 +1,8 @@
+public class practice505
+{
+    public static ramram(){
+        int x,y=10,z=5;
+        x=y+z;
+        public static void main(ramram(x));
+    }
+}
